@@ -65,7 +65,7 @@ jobs:
         with:
           context: .
           push: true
-          tags: ${{ secrets.DOCKER_USERNAME }}/ci-app:latest 
+          tags: ${{ secrets.DOCKER_USERNAME }}/ut-mlops-ci:latest 
 
       - name: Image digest
         run: echo ${{ steps.build-image.outputs.digest }}
