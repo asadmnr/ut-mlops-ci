@@ -1,0 +1,10 @@
+artifact_location: /Users/asadmunir/mydata/courses/MLops/mlops-prac/ut-mlops-ci/mlruns/767454536121722717/models/m-8af1951a43a143f298aafd1b98dac17f/artifacts
+creation_timestamp: 1775131286498
+experiment_id: '767454536121722717'
+last_updated_timestamp: 1775131287789
+model_id: m-8af1951a43a143f298aafd1b98dac17f
+model_type: ''
+name: model
+source_run_id: 9448d16076514242b4709facc44fc759
+status: 2
+status_message: null

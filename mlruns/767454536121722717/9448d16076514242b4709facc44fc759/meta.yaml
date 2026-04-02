@@ -1,0 +1,14 @@
+artifact_uri: /Users/asadmunir/mydata/courses/MLops/mlops-prac/ut-mlops-ci/mlruns/767454536121722717/9448d16076514242b4709facc44fc759/artifacts
+end_time: 1775131287791
+entry_point_name: ''
+experiment_id: '767454536121722717'
+lifecycle_stage: active
+run_id: 9448d16076514242b4709facc44fc759
+run_name: learned-mule-197
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775131286291
+status: 3
+tags: []
+user_id: asadmunir
